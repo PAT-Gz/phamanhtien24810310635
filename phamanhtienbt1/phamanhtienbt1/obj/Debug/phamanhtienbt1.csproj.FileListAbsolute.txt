@@ -1,0 +1,7 @@
+C:\Users\LaptopAM.com\source\repos\phamanhtienbt1\phamanhtienbt1\obj\Debug\phamanhtienbt1.csproj.AssemblyReference.cache
+C:\Users\LaptopAM.com\source\repos\phamanhtienbt1\phamanhtienbt1\obj\Debug\phamanhtienbt1.csproj.CoreCompileInputs.cache
+C:\Users\LaptopAM.com\source\repos\phamanhtienbt1\phamanhtienbt1\bin\Debug\phamanhtienbt1.exe.config
+C:\Users\LaptopAM.com\source\repos\phamanhtienbt1\phamanhtienbt1\bin\Debug\phamanhtienbt1.exe
+C:\Users\LaptopAM.com\source\repos\phamanhtienbt1\phamanhtienbt1\bin\Debug\phamanhtienbt1.pdb
+C:\Users\LaptopAM.com\source\repos\phamanhtienbt1\phamanhtienbt1\obj\Debug\phamanhtienbt1.exe
+C:\Users\LaptopAM.com\source\repos\phamanhtienbt1\phamanhtienbt1\obj\Debug\phamanhtienbt1.pdb

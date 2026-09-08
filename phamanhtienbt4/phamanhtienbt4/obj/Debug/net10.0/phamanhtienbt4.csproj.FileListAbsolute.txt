@@ -1,0 +1,14 @@
+C:\Users\LaptopAM.com\source\repos\phamanhtienbt4\phamanhtienbt4\obj\Debug\net10.0\phamanhtienbt4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LaptopAM.com\source\repos\phamanhtienbt4\phamanhtienbt4\obj\Debug\net10.0\phamanhtienbt4.AssemblyInfoInputs.cache
+C:\Users\LaptopAM.com\source\repos\phamanhtienbt4\phamanhtienbt4\obj\Debug\net10.0\phamanhtienbt4.AssemblyInfo.cs
+C:\Users\LaptopAM.com\source\repos\phamanhtienbt4\phamanhtienbt4\obj\Debug\net10.0\phamanhtienbt4.csproj.CoreCompileInputs.cache
+C:\Users\LaptopAM.com\source\repos\phamanhtienbt4\phamanhtienbt4\bin\Debug\net10.0\phamanhtienbt4.exe
+C:\Users\LaptopAM.com\source\repos\phamanhtienbt4\phamanhtienbt4\bin\Debug\net10.0\phamanhtienbt4.deps.json
+C:\Users\LaptopAM.com\source\repos\phamanhtienbt4\phamanhtienbt4\bin\Debug\net10.0\phamanhtienbt4.runtimeconfig.json
+C:\Users\LaptopAM.com\source\repos\phamanhtienbt4\phamanhtienbt4\bin\Debug\net10.0\phamanhtienbt4.dll
+C:\Users\LaptopAM.com\source\repos\phamanhtienbt4\phamanhtienbt4\bin\Debug\net10.0\phamanhtienbt4.pdb
+C:\Users\LaptopAM.com\source\repos\phamanhtienbt4\phamanhtienbt4\obj\Debug\net10.0\phamanhtienbt4.dll
+C:\Users\LaptopAM.com\source\repos\phamanhtienbt4\phamanhtienbt4\obj\Debug\net10.0\refint\phamanhtienbt4.dll
+C:\Users\LaptopAM.com\source\repos\phamanhtienbt4\phamanhtienbt4\obj\Debug\net10.0\phamanhtienbt4.pdb
+C:\Users\LaptopAM.com\source\repos\phamanhtienbt4\phamanhtienbt4\obj\Debug\net10.0\phamanhtienbt4.genruntimeconfig.cache
+C:\Users\LaptopAM.com\source\repos\phamanhtienbt4\phamanhtienbt4\obj\Debug\net10.0\ref\phamanhtienbt4.dll

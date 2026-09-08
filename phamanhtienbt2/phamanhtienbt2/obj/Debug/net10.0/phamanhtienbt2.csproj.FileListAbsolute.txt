@@ -1,0 +1,14 @@
+C:\Users\LaptopAM.com\source\repos\phamanhtienbt2\phamanhtienbt2\obj\Debug\net10.0\phamanhtienbt2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LaptopAM.com\source\repos\phamanhtienbt2\phamanhtienbt2\obj\Debug\net10.0\phamanhtienbt2.AssemblyInfoInputs.cache
+C:\Users\LaptopAM.com\source\repos\phamanhtienbt2\phamanhtienbt2\obj\Debug\net10.0\phamanhtienbt2.AssemblyInfo.cs
+C:\Users\LaptopAM.com\source\repos\phamanhtienbt2\phamanhtienbt2\obj\Debug\net10.0\phamanhtienbt2.csproj.CoreCompileInputs.cache
+C:\Users\LaptopAM.com\source\repos\phamanhtienbt2\phamanhtienbt2\bin\Debug\net10.0\phamanhtienbt2.exe
+C:\Users\LaptopAM.com\source\repos\phamanhtienbt2\phamanhtienbt2\bin\Debug\net10.0\phamanhtienbt2.deps.json
+C:\Users\LaptopAM.com\source\repos\phamanhtienbt2\phamanhtienbt2\bin\Debug\net10.0\phamanhtienbt2.runtimeconfig.json
+C:\Users\LaptopAM.com\source\repos\phamanhtienbt2\phamanhtienbt2\bin\Debug\net10.0\phamanhtienbt2.dll
+C:\Users\LaptopAM.com\source\repos\phamanhtienbt2\phamanhtienbt2\bin\Debug\net10.0\phamanhtienbt2.pdb
+C:\Users\LaptopAM.com\source\repos\phamanhtienbt2\phamanhtienbt2\obj\Debug\net10.0\phamanhtienbt2.dll
+C:\Users\LaptopAM.com\source\repos\phamanhtienbt2\phamanhtienbt2\obj\Debug\net10.0\refint\phamanhtienbt2.dll
+C:\Users\LaptopAM.com\source\repos\phamanhtienbt2\phamanhtienbt2\obj\Debug\net10.0\phamanhtienbt2.pdb
+C:\Users\LaptopAM.com\source\repos\phamanhtienbt2\phamanhtienbt2\obj\Debug\net10.0\phamanhtienbt2.genruntimeconfig.cache
+C:\Users\LaptopAM.com\source\repos\phamanhtienbt2\phamanhtienbt2\obj\Debug\net10.0\ref\phamanhtienbt2.dll
